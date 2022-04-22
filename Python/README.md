@@ -36,7 +36,7 @@ Flow Control II, List and Dictionary Comprehension, Generators
 * [Assignment_18](https://github.com/bheemaguli/FullStack/blob/main/Python/1.%20Python%20Basic%20Assignment/Assignment_18.ipynb)
 Importing Python Module, Dictionary III
 * [Assignment_19](https://github.com/bheemaguli/FullStack/blob/main/Python/1.%20Python%20Basic%20Assignment/Assignment_19.ipynb)
-Classes and Objects I
+Classes and Objects
 * [Assignment_20](https://github.com/bheemaguli/FullStack/blob/main/Python/1.%20Python%20Basic%20Assignment/Assignment_20.ipynb)
 Working with Excel Spreadsheets, CSV, SQLite3 and Redis
 * [Assignment_21](https://github.com/bheemaguli/FullStack/blob/main/Python/1.%20Python%20Basic%20Assignment/Assignment_21.ipynb)
